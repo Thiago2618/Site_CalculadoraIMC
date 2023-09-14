@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Site_CalculadoraIMC/static/css/main.0451a59c.css",
+    "main.js": "/Site_CalculadoraIMC/static/js/main.1bcdfeda.js",
+    "static/js/787.cda612ba.chunk.js": "/Site_CalculadoraIMC/static/js/787.cda612ba.chunk.js",
+    "static/media/Healthy_habit-bro.png": "/Site_CalculadoraIMC/static/media/Healthy_habit-bro.36f1980e65c11f7709fe.png",
+    "index.html": "/Site_CalculadoraIMC/index.html",
+    "main.0451a59c.css.map": "/Site_CalculadoraIMC/static/css/main.0451a59c.css.map",
+    "main.1bcdfeda.js.map": "/Site_CalculadoraIMC/static/js/main.1bcdfeda.js.map",
+    "787.cda612ba.chunk.js.map": "/Site_CalculadoraIMC/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0451a59c.css",
+    "static/js/main.1bcdfeda.js"
+  ]
+}
